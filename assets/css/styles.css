@@ -238,7 +238,7 @@ img {
   width: 250px;
   position: absolute;
   top: 2rem;
-  right: 5rem;
+  right: 1rem;
 }
 
 .home__data {
@@ -356,7 +356,7 @@ img {
   width: 250px;
   position: absolute;
   top: 2rem;
-  right: 2rem;
+  right: 0.5rem;
 }
 
 /*=============== CASE ===============*/
@@ -372,7 +372,7 @@ img {
 .case__img {
   width: 250px;
   position: absolute;
-  left: 0rem;
+  left: -2rem;
 }
 
 .case__description {
@@ -401,7 +401,7 @@ img {
   width: 300px;
   position: absolute;
   top: 4rem;
-  right: 2rem;
+  right: 0rem;
 }
 
 /*=============== PRODUCTS ===============*/
@@ -588,7 +588,7 @@ img {
     font-size: var(--big-font-size);
   }
   .home__img {
-    width: 250px;
+    width: 150px;
     top: 0rem;
   }
   .home__title {
@@ -609,8 +609,8 @@ img {
   }
   .case__img {
     width: 220px;
-    top: 0rem;
-    left: 0rem;
+    top: 2rem;
+    left: -2rem;
   }
   .case__data {
     padding: 0;
@@ -631,7 +631,7 @@ img {
   }
   .home__img {
     top: 0rem;
-    left: 0;
+    left: 1;
   }
   .specs__img {
     position: initial;
@@ -698,7 +698,7 @@ img {
   }
   .home__img {
     top: 0rem;
-    left: 4rem;
+    left: 1rem;
   }
   .home__data {
     padding-top: 8rem;
