@@ -21,7 +21,7 @@
   --scroll-thumb-color-alt: hsl(var(--hue-color), 4%, 20%);
   /*========== Font and typography ==========*/
   --body-font: "Poppins", sans-serif;
-  --biggest-font-size: 6rem;
+  --biggest-font-size: 3rem;
   --bigger-font-size: 3.5rem;
   --big-font-size: 2.5rem;
   --h2-font-size: 1.25rem;
@@ -237,8 +237,8 @@ img {
 .home__img {
   width: 250px;
   position: absolute;
-  top: -16rem;
-  right: 1.5rem;
+  top: 2rem;
+  right: 5rem;
 }
 
 .home__data {
@@ -356,7 +356,7 @@ img {
   width: 250px;
   position: absolute;
   top: 2rem;
-  right: -4rem;
+  right: 2rem;
 }
 
 /*=============== CASE ===============*/
@@ -372,7 +372,7 @@ img {
 .case__img {
   width: 250px;
   position: absolute;
-  left: -7rem;
+  left: 0rem;
 }
 
 .case__description {
@@ -401,7 +401,7 @@ img {
   width: 300px;
   position: absolute;
   top: 4rem;
-  right: -11rem;
+  right: 2rem;
 }
 
 /*=============== PRODUCTS ===============*/
@@ -589,7 +589,7 @@ img {
   }
   .home__img {
     width: 250px;
-    top: -13rem;
+    top: 0rem;
   }
   .home__title {
     top: -4rem;
@@ -609,8 +609,8 @@ img {
   }
   .case__img {
     width: 220px;
-    top: -2rem;
-    left: -9rem;
+    top: 0rem;
+    left: 0rem;
   }
   .case__data {
     padding: 0;
@@ -630,7 +630,7 @@ img {
     padding-top: 2rem;
   }
   .home__img {
-    top: -7rem;
+    top: 0rem;
     left: 0;
   }
   .specs__img {
@@ -697,7 +697,7 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
   .home__img {
-    top: -9rem;
+    top: 0rem;
     left: 4rem;
   }
   .home__data {
