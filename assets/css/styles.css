@@ -235,7 +235,7 @@ img {
 
 /*=============== HOME ===============*/
 .home__img {
-  width: 250px;
+  width: 150px;
   position: absolute;
   top: 2rem;
   right: 1rem;
@@ -372,7 +372,8 @@ img {
 .case__img {
   width: 250px;
   position: absolute;
-  left: -2rem;
+  top: 2rem;
+  left: -4rem;
 }
 
 .case__description {
@@ -398,9 +399,9 @@ img {
 }
 
 .discount__img {
-  width: 300px;
+  width: 150px;
   position: absolute;
-  top: 4rem;
+  top: 1rem;
   right: 0rem;
 }
 
@@ -610,7 +611,7 @@ img {
   .case__img {
     width: 220px;
     top: 2rem;
-    left: -2rem;
+    left: -4rem;
   }
   .case__data {
     padding: 0;
