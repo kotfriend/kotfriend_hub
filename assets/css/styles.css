@@ -391,7 +391,7 @@ img {
   width: 220px;
   position: absolute;
   top: 2rem;
-  left: -4rem;
+  left: -3rem;
 }
 
 .case__description {
@@ -629,7 +629,7 @@ img {
   .case__img {
     width: 180px;
     top: 2rem;
-    left: -4rem;
+    left: -3rem;
   }
   .case__data {
     padding: 0;
