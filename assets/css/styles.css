@@ -288,7 +288,7 @@ img {
   display: inline-block;
   background-color: var(--black-color);
   color: var(--white-color);
-  padding: 1rem 1.25rem;
+  padding: 0.5rem 0.5rem;
   border-radius: 0.5rem;
   transition: 0.3s;
 }
