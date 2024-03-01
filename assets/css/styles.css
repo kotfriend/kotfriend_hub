@@ -388,10 +388,10 @@ img {
 }
 
 .case__img {
-  width: 180px;
+  width: 220px;
   position: absolute;
-  top: 1rem;
-  left: -2rem;
+  top: 2rem;
+  left: -4rem;
 }
 
 .case__description {
@@ -627,9 +627,9 @@ img {
     grid-template-columns: 0.6fr 1fr;
   }
   .case__img {
-    width: 180px;
-    top: 1rem;
-    left: -2rem;
+    width: 200px;
+    top: 2rem;
+    left: -4rem;
   }
   .case__data {
     padding: 0;
