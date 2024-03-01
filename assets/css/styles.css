@@ -159,7 +159,7 @@ img {
 
 .nav__logo {
   display: flex;
-  width: 4rem;
+  width: 1.5rem;
 }
 
 .nav__toggle {
@@ -284,7 +284,7 @@ img {
 }
 
 /*=============== BUTTONS ===============*/
-.button {
+.button__nav {
   display: inline-block;
   background-color: var(--black-color);
   color: var(--white-color);
@@ -293,10 +293,28 @@ img {
   transition: 0.3s;
 }
 
-.button:hover {
+.button__nav:hover {
   background-color: var(--black-color-alt);
 }
 
+.button__nav--flex {
+  display: inline-flex;
+  align-items: center;
+  column-gap: 0.75rem;
+}
+
+.button {
+  display: inline-block;
+  background-color: #ff9900;
+  color: var(--black-color);
+  padding: 1rem 4rem;
+  border-radius: 0.5rem;
+  transition: 0.3s;
+}
+
+.button:hover {
+  background-color: var(--white-color);
+}
 .button__icon {
   font-size: 1.2rem;
 }
@@ -373,7 +391,7 @@ img {
   width: 250px;
   position: absolute;
   top: 2rem;
-  left: -6rem;
+  left: -4rem;
 }
 
 .case__description {
@@ -611,7 +629,7 @@ img {
   .case__img {
     width: 220px;
     top: 2rem;
-    left: -6rem;
+    left: -4rem;
   }
   .case__data {
     padding: 0;
