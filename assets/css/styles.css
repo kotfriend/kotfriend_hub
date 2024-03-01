@@ -627,7 +627,7 @@ img {
     grid-template-columns: 0.6fr 1fr;
   }
   .case__img {
-    width: 220px;
+    width: 180px;
     top: 2rem;
     left: -4rem;
   }
